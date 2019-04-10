@@ -1,0 +1,7 @@
+﻿  GameEngine.cpp
+c:\users\dorse\source\repos\everquest\everquest\gameengine.cpp(19): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+  GameState.cpp
+  MainMenu.cpp
+  main.cpp
+  Generating Code...
+  EverQuest.vcxproj -> C:\Users\dorse\source\repos\EverQuest\Debug\EverQuest.exe
